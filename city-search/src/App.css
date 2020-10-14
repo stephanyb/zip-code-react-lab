@@ -1,0 +1,38 @@
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
+  text-align: center;
+}
+.searchField{
+  text-align: center;
+  font-weight: bold;
+}
+.main-container{
+  border:3px solid blue;
+  width:500px;
+  height: 500px;
+  margin: auto;
+}
+#ul-4col{
+  columns: 4;
+  -webkit-columns: 4;
+  -moz-columns: 4;
+  list-style-position: inside;
+  text-align: center;
+  margin-left: -2em;
+}
+.results-container{
+  border: 3px solid rebeccapurple;
+  margin-left:3em;
+  margin-right:3em;
+  margin-bottom: 3em;
+}
+#ul-3col{
+  columns: 3;
+  -webkit-columns: 3;
+  -moz-columns: 3;
+  list-style-position: inside;
+  text-align: center;
+  margin-left: -2.5em;
+}
